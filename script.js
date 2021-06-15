@@ -1,5 +1,5 @@
 window.addEventListener("DOMContentLoaded", function () {
-    let = bags = document.querySelector('.bag'),
+    let bags = document.querySelector('.bag'),
           products = document.querySelectorAll('.product'),
           toByy = document.querySelectorAll('.toBy'),
           shops = document.querySelector(".shop");
